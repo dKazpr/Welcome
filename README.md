@@ -42,8 +42,14 @@ I'm currently studying computer science and software development (December 2023)
 
 ---
 
-### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Daveedai&theme=dark&background=000000)](https://git.io/streak-stats)
+### 📖 My GitHub History :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daveedai&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daveedai&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌎 Where Else to Find Me :
+
 <!---
 Daveedai/Daveedai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
