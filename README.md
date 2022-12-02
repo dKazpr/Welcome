@@ -49,7 +49,12 @@ I'm currently studying computer science and software development (December 2023)
 ---
 
 ### 🌎 Where Else to Find Me :
-
+<div id="social">
+    <a href="https://steamcommunity.com/id/gloosniffa/"><img src="https://github.com/Daveedai/Daveedai/blob/main/images/steam.png" 
+    width="40" height="40"></a>
+    <a href="https://discordapp.com/users/579009122180136960/"><img src="https://github.com/Daveedai/Daveedai/blob/main/images/discord.png" 
+    width="40" height="40"></a>
+</div>
 <!---
 Daveedai/Daveedai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
