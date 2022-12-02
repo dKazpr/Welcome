@@ -1,1 +1,1 @@
-Images/icons used in README.md
+Images/icons used for the profile page.
