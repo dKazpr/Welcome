@@ -19,7 +19,6 @@
 
 ### 👨‍💻 About Me :
 I'm currently studying software development at DePaul University (December 2023).
-- I'm working on personal projects and looking to intern during the Summer of 2023.
 
 ---
 
