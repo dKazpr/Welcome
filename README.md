@@ -18,7 +18,9 @@
 ---
 
 ### 👨‍💻 About Me :
-I'm currently studying software development at DePaul University (December 2023).
+B.S. Computer Science from DePaul University
+
+Aspiring Software Dev/Web Dev. I am looking for work!
 
 ---
 
